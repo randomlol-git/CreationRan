@@ -19,3 +19,23 @@ body {
     color: rgb(215, 113, 255);
     text-shadow: 1px 1px 2px rgb(141, 48, 184);
 }
+
+#linkToRandyInfo {
+    color: rgb(104, 33, 126);
+    text-shadow: 1px 1px 2px rgb(184, 34, 214);
+}
+
+#linkToChain-aInfo {
+    color: rgb(31, 0, 0);
+    text-shadow: 1px 1px 2px rgb(143, 0, 0);
+}
+
+#linkToFaithInfo {
+    color: rgb(42, 171, 211);
+    text-shadow: 1px 1px 2px rgb(25, 48, 182);
+}
+
+#linkToStonleyInfo {
+    color: rgb(129, 129, 129);
+    text-shadow: 1px 1px 2px rgb(46, 56, 44);
+}
