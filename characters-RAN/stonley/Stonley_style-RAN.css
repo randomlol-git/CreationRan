@@ -1,0 +1,23 @@
+body {
+    background-color: gray;
+    color: black;
+}
+
+b {
+    font-size: larger;
+}
+
+#General {
+    background-color: darkgray;
+    padding: 5px 4px 4px 10px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#Discription {
+    background-color: darkgray;
+    padding: 5px 4px 4px 10px;
+    width: 300px;
+    margin-bottom: 10px;
+
+}

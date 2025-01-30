@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(107, 207, 191);
+    color: rgb(98, 139, 228);
+}
+
+b {
+    font-size: larger;
+}
+
+#General {
+    background-color: rgb(7, 87, 192);
+    padding: 5px 4px 4px 10px;
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+#Discription {
+    background-color: rgb(29, 211, 38);
+    padding: 5px 4px 4px 10px;
+    width: 300px;
+    margin-bottom: 10px;
+
+}
